@@ -1,5 +1,4 @@
-import Link from "next/link";
-import Image from "next/image";
+
 
 const Header = () => (
   <header className="relative min-h-[520px] flex flex-col items-center justify-center bg-gradient-to-br from-orange-50 via-white to-orange-100 px-4 pt-24 pb-24 text-center overflow-hidden">

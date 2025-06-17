@@ -1,4 +1,7 @@
 const FormSection = () => (
+  <section id="form-section" className="bg-white py-28 px-6">
+  
+
   <section className="bg-yellow-50 py-16 px-4">
     <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8">
       無料相談・資料請求はこちらから
@@ -43,6 +46,8 @@ const FormSection = () => (
       <p className="text-sm">受付時間/10:00-19:00（土・日・祝日除く）</p>
     </div>
   </section>
+  </section>
 );
 
 export default FormSection;
+
